@@ -1,0 +1,6 @@
+{
+    "env": {
+        "GOOGLE_CLOUD_PROJECT": "YOUR_PROJECT'S ID"
+    },
+    "verbose": true
+}
